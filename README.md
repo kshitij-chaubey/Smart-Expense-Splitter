@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💸 Smart Expense Splitter (OOP Edition)
 
 A modern, desktop-based expense-sharing application built with **Java Swing** and **Object-Oriented Programming (OOP)** principles. It allows flatmates, travel groups, and project teams to track shared bills, calculate individual net balances, and minimize transaction settlements using an optimized greedy algorithm.
@@ -194,3 +195,7 @@ smartExpenseSplitter/
 - **Persistence:** Java Object Serialization (`java.io.Serializable`)
 - **Architecture:** Layered Object-Oriented Architecture
 
+=======
+# Smart-Expense-Splitter
+A modern, desktop-based expense-sharing application built with **Java Swing** and **Object-Oriented Programming (OOP)** principles. It allows flatmates, travel groups, and project teams to track shared bills, calculate individual net balances, and minimize transaction settlements using an optimized greedy algorithm.
+>>>>>>> e1dc9d01b7398d22554efef49330a481aee0c9df
